@@ -17,9 +17,9 @@ const App = (props) =>{
     //console.log("this was clicked")
     setPersonState({
      persons: [
-       {name: 'Maximilian', age: 28},
+       {name: 'Maximilllan Real name', age: 28},
        {name: 'Manu', age: 29},
-       {name: 'Stephine', age: 27}
+       {name: 'Stephine', age: 26}
      ],
      otherState: personsState.otherState
     });
